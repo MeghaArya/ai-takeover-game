@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ai-takeover-game/static/css/main.7def9d63.css",
-    "main.js": "/ai-takeover-game/static/js/main.8dbac276.js",
+    "main.js": "/ai-takeover-game/static/js/main.c67fc921.js",
     "static/js/453.a09a9311.chunk.js": "/ai-takeover-game/static/js/453.a09a9311.chunk.js",
     "index.html": "/ai-takeover-game/index.html",
     "main.7def9d63.css.map": "/ai-takeover-game/static/css/main.7def9d63.css.map",
-    "main.8dbac276.js.map": "/ai-takeover-game/static/js/main.8dbac276.js.map",
+    "main.c67fc921.js.map": "/ai-takeover-game/static/js/main.c67fc921.js.map",
     "453.a09a9311.chunk.js.map": "/ai-takeover-game/static/js/453.a09a9311.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7def9d63.css",
-    "static/js/main.8dbac276.js"
+    "static/js/main.c67fc921.js"
   ]
 }
