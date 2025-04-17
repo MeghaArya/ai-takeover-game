@@ -1,5 +1,6 @@
 // This version adds moral ambiguity and context to make player choices less obvious.
 import { useState, useRef } from 'react';
+
 import html2canvas from 'html2canvas';
 
 const Card = ({ children, className }) => (
